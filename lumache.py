@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+relAI - Python library for reliability assessment of ML predictions.
 """
 
 __version__ = "0.1.0"
